@@ -1,5 +1,15 @@
 title: 3Z6MA Ham Radio Blog
+
 description: Personal blog about amateur radio experiments and observations.
-author: Adam 3Z6MA
-email: 
-theme: jekyll-theme-minimal
+
+url: https://3z6ma.github.io
+
+author:
+  name: Adam 3Z6MA
+  url: https://github.com/3Z6MA
+
+theme: jekyll-theme-chirpy
+
+lang: en
+
+timezone: Warsaw/Poland
