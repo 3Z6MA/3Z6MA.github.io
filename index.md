@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
 # Welcome to My Ham Radio Blog
 
 This is my personal blog where I share notes, experiments, and projects related to amateur radio.
