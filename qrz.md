@@ -26,4 +26,4 @@ My amateur radio related 3D projects:
 <a href="https://www.printables.com/@Adam3Z6MA_3404601" target="_blank">https://www.printables.com/@Adam3Z6MA_3404601</a>
 
 ---
-<iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="//logbook.qrz.com/lbstat/3Z6MA/" style="width: 100%; max-width: 1200px"></iframe>
+<iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/3Z6MA/" style="width: 100%; max-width: 1200px"></iframe>
