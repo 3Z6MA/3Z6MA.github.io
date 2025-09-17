@@ -1,4 +1,6 @@
-{% raw %}
+---
+layout: null
+---
 Hello! I'm new to amateur radio and got my license in May 2025. Excited to learn and connect with others along the way!
 
 ---
@@ -22,4 +24,3 @@ My DIY 1/4&lambda; ground plane antenna for 2m and 70cm bands
 My amateur radio related 3D projects:
 
 <a href="https://www.printables.com/@Adam3Z6MA_3404601" target="_blank">https://www.printables.com/@Adam3Z6MA_3404601</a>
-{% endraw %}
