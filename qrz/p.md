@@ -1,7 +1,7 @@
 ---
 layout: null
 ---
-<a href="https://www.qrz.com/db/3Z6MA" target="_blank">Main page: 3Z6MA</a>
+<a href="https://www.qrz.com/db/3Z6MA" target="_top">Main page: 3Z6MA</a>
 
 My portable setup:
 
