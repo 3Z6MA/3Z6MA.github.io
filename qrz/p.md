@@ -9,5 +9,3 @@ My portable setup:
 
 ---
 <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/3Z6MA_P" style="width: 100%; max-width: 1200px"></iframe>
-
-<iframe src="https://h4mr4d10.byethost8.com/visit.php"></iframe>
