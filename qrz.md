@@ -27,3 +27,5 @@ My amateur radio related 3D projects:
 
 ---
 <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/3Z6MA/" style="width: 100%; max-width: 1200px"></iframe>
+
+<img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=kfps81du49lejldbu4jmzme4ydcjyydc" border="0" title="website counters" alt="website counters">
