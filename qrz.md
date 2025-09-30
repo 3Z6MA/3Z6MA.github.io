@@ -10,6 +10,14 @@ My DIY 1/4&lambda; ground plane antenna for 2m and 70cm bands
 
 <a href="https://3z6ma.github.io/assets/img/nvna_2m_swr.jpg" target="_blank"><img alt="SWR 2m" src="https://3z6ma.github.io/assets/img/nvna_2m_swr.jpg" style="height:423px; width:564px" /></a>
 
+My portable setup:
+
+ - Radio Yaesu FT-857
+ - Antenna JPC-12
+ - Quansheng UV-K5
+
+<a href="https://3z6ma.github.io/assets/img/portable_setup_jpc12.jpg" target="_blank"><img alt="Portable setup JPC-12 antenna" src="https://3z6ma.github.io/assets/img/portable_setup_jpc12.jpg" style="height:750px; width:563px" /></a>
+
 ---
 ### **SOTA**
 
@@ -27,3 +35,5 @@ My amateur radio related 3D projects:
 
 ---
 <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/3Z6MA/" style="width: 100%; max-width: 1200px"></iframe>
+---
+<iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/3Z6MA_P" style="width: 100%; max-width: 1200px"></iframe>
