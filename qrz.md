@@ -4,7 +4,7 @@ layout: null
 Hello! I'm new to amateur radio and got my license in May 2025. Excited to learn and connect with others along the way!
 
 ---
-My DIY 1/4&lambda; ground plane antenna for 2m and 70cm bands
+My DIY &lambda;/4 ground plane antenna for 2m and 70cm bands
 
 <a href="https://3z6ma.github.io/assets/img/antenna.jpg" target="_blank"><img alt="My DIY 1/4λ with GP antenna for 2m and 70cm bands" src="https://3z6ma.github.io/assets/img/antenna.jpg" style="height:750px; width:563px" /></a>
 
