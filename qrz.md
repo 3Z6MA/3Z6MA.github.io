@@ -3,6 +3,10 @@ layout: null
 ---
 Hello! I'm new to amateur radio and got my license in May 2025. Excited to learn and connect with others along the way!
 
+I log the callsign as it was given during the QSO(I include the /P, /M etc.).
+
+Please, if you work my station when portable, log it with /P.
+
 ---
 My DIY &lambda;/4 ground plane antenna for 2m and 70cm bands
 
@@ -10,7 +14,7 @@ My DIY &lambda;/4 ground plane antenna for 2m and 70cm bands
 
 <a href="https://3z6ma.github.io/assets/img/nvna_2m_swr.jpg" target="_blank"><img alt="SWR 2m" src="https://3z6ma.github.io/assets/img/nvna_2m_swr.jpg" style="height:423px; width:564px" /></a>
 
-My portable setup:
+My portable setup, usually 10 Watts:
 
  - Radio Yaesu FT-857
  - Antenna JPC-12
