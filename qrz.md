@@ -25,7 +25,7 @@ My portable setup, usually 10 Watts:
 ---
 ### **SOTA**
 
-<iframe frameborder="0" id="SOTA" name="SOTA Activations" scrolling="yes" src="https://neon1.net/sota/myact/?c=3Z6MA&amp;l=10&amp;w=1&amp;p=1&amp;t=1" width="640" height="270"></iframe>
+<iframe frameborder="0" id="SOTA" name="SOTA Activations" scrolling="yes" src="https://neon1.net/sota/myact/?c=3Z6MA&amp;l=10&amp;w=1&amp;p=1&amp;t=1" width="640" height="300"></iframe>
 
 ---
 ### **POTA**
