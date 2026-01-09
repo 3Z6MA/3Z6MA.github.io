@@ -28,6 +28,11 @@ My portable setup, usually 10 Watts:
 <iframe frameborder="0" id="SOTA" name="SOTA Activations" scrolling="yes" src="https://neon1.net/sota/myact/?c=3Z6MA&amp;l=10&amp;w=1&amp;p=1&amp;t=1" width="640" height="270"></iframe>
 
 ---
+### **POTA**
+
+<a href="https://pota-stats.wd4dan.net/?3Z6MA" target="_blank">https://pota-stats.wd4dan.net/?3Z6MA</a>
+
+---
 ### **Other stuff**
 
 <a href="https://photos.app.goo.gl/RxWDcFuBDnc9GoxU6" target="_blank">HF0CEBULA solar sonde SSTV</a>
