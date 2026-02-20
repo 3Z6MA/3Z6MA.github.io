@@ -3,7 +3,7 @@ layout: null
 ---
 Hello! I'm new to amateur radio and got my license in May 2025. Excited to learn and connect with others along the way!
 
-I log the callsign as it was given during the QSO(I include the /P, /M etc.).
+I log the callsign with the prefix and suffix strokes as it was used during the QSO(I include the SP/, /P, /M etc.).
 
 Please, if you work my station when portable, log it with /P.
 
@@ -44,5 +44,7 @@ My amateur radio related 3D projects:
 
 ---
 <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/3Z6MA/" style="width: 100%; max-width: 1200px"></iframe>
+---
+<iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/HB9_3Z6MA_P" style="width: 100%; max-width: 1200px"></iframe>
 ---
 <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/3Z6MA_P" style="width: 100%; max-width: 1200px"></iframe>
