@@ -45,4 +45,8 @@ My amateur radio related 3D projects:
 ---
 <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/3Z6MA/" style="width: 100%; max-width: 1200px"></iframe>
 ---
+Log for all QSOs as HB9/ (also /P)
+
+<iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/HB9_3Z6MA" style="width: 100%; max-width: 1200px"></iframe>
+---
 <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/3Z6MA_P" style="width: 100%; max-width: 1200px"></iframe>
