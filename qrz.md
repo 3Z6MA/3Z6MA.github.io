@@ -45,21 +45,17 @@ My amateur radio related 3D projects:
 ---
 <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/3Z6MA/" style="width: 100%; max-width: 1200px"></iframe>
 ---
-Log for all QSOs as HB9/ (also /P)
-
 <details>
-    <summary>Click to open HB9/3Z6MA logbook's latest contacts</summary>
+    <summary>Click to open <b>3Z6MA/P</b> logbook's latest contacts</summary>
+    <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/3Z6MA_P" style="width: 100%; max-width: 1200px"></iframe>
+</details>
+---
+<details>
+    <summary>Click to open <b>HB9/3Z6MA</b> (also <b>/P</b>) logbook's latest contacts</summary>
     <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/HB9_3Z6MA" style="width: 100%; max-width: 1200px"></iframe>
 </details>
 ---
-Log for all QSOs as PA/ (also /P)
-
 <details>
-    <summary>Click to open PA/3Z6MA logbook's latest contacts</summary>
+    <summary>Click to open <b>PA/3Z6MA</b> (also <b>/P</b>) logbook's latest contacts</summary>
     <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/PA_3Z6MA" style="width: 100%; max-width: 1200px"></iframe>
-</details>
----
-<details>
-    <summary>Click to open 3Z6MA/P logbook's latest contacts</summary>
-    <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/3Z6MA_P" style="width: 100%; max-width: 1200px"></iframe>
 </details>
