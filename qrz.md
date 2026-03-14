@@ -53,4 +53,7 @@ Log for all QSOs as PA/ (also /P)
 
 <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/PA_3Z6MA" style="width: 100%; max-width: 1200px"></iframe>
 ---
-<iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/3Z6MA_P" style="width: 100%; max-width: 1200px"></iframe>
+<details>
+    <summary>Click to open 3Z6MA/P logbook</summary>
+    <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/3Z6MA_P" style="width: 100%; max-width: 1200px"></iframe>
+</details>
