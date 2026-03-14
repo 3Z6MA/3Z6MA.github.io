@@ -30,7 +30,10 @@ My portable setup, usually 10 Watts:
 ---
 ### **POTA**
 
-<a href="https://pota-stats.wd4dan.net/?3Z6MA" target="_blank">https://pota-stats.wd4dan.net/?3Z6MA</a>
+<details>
+    <summary>Click to open <b>POTA</b> stats</summary>
+    <iframe frameborder="0" id="SOTA" name="SOTA Activations" scrolling="yes" src="https://pota-stats.wd4dan.net/?3Z6MA" width="720" height="1400"></iframe>
+</details>
 
 ---
 ### **Other stuff**
