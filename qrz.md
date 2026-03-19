@@ -43,6 +43,12 @@ My portable setup, usually 10 Watts:
 </details>
 ---
 <details>
+    <summary>Click to open <b>DL/3Z6MA</b> (also <b>/P</b>) logbook's latest contacts</summary>
+    <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/DL_3Z6MA" style="width: 100%; max-width: 1200px"></iframe>
+</details>
+
+---
+<details>
     <summary>Click to open <b>HB9/3Z6MA</b> (also <b>/P</b>) logbook's latest contacts</summary>
     <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/HB9_3Z6MA" style="width: 100%; max-width: 1200px"></iframe>
 </details>
