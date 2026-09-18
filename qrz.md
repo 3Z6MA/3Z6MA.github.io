@@ -10,10 +10,10 @@ Please, if you work my station when portable, log it with /P.
 Thanks for stopping by. Hope to catch you on the air! 73 de 3Z6MA
 
 ---
-My setup at home about ~100 Watts:
+My HF setup at home about ~100 Watts:
 
  - Radio: Yaesu FT-857
- - Antenna: &lambda;/4 ground plane, single band, 20M
+ - Antenna: DIY &lambda;/4 ground plane, single band, 20M
 
 ---
 <details>
