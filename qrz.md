@@ -7,20 +7,13 @@ I log the callsign as it was given during the QSO(I include the /P, /M etc.).
 
 Please, if you work my station when portable, log it with /P.
 
+Thanks for stopping by. Hope to catch you on the air! 73 de 3Z6MA
+
 ---
-My DIY &lambda;/4 ground plane antenna for 2m and 70cm bands
+My setup at home about ~100 Watts:
 
-<a href="https://3z6ma.github.io/assets/img/antenna.jpg" target="_blank"><img alt="My DIY 1/4λ with GP antenna for 2m and 70cm bands" src="https://3z6ma.github.io/assets/img/antenna.jpg" style="height:750px; width:563px" /></a>
-
-<a href="https://3z6ma.github.io/assets/img/nvna_2m_swr.jpg" target="_blank"><img alt="SWR 2m" src="https://3z6ma.github.io/assets/img/nvna_2m_swr.jpg" style="height:423px; width:564px" /></a>
-
-My portable setup, usually 10 Watts:
-
- - Radio Yaesu FT-857
- - Antenna JPC-12
- - Quansheng UV-K5
-
-<a href="https://3z6ma.github.io/assets/img/portable_setup_jpc12.jpg" target="_blank"><img alt="Portable setup JPC-12 antenna" src="https://3z6ma.github.io/assets/img/portable_setup_jpc12.jpg" style="height:750px; width:563px" /></a>
+ - Radio: Yaesu FT-857
+ - Antenna: &lambda;/4 ground plane, single band, 20M
 
 ---
 <details>
