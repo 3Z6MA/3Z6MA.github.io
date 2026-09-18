@@ -18,7 +18,7 @@ My setup at home about ~100 Watts:
 ---
 <details>
     <summary>Click to open <b>SOTA</b> stats</summary>
-    <iframe frameborder="0" id="SOTA" name="SOTA Activations" scrolling="yes" src="https://neon1.net/sota/myact/?c=3Z6MA&amp;l=10&amp;w=1&amp;p=1&amp;t=1" width="640" height="300"></iframe>
+    <iframe frameborder="0" id="SOTA" name="SOTA Activations" scrolling="yes" src="https://neon1.net/sota/myact/?c=3Z6MA&amp;l=10&amp;w=1&amp;p=1&amp;t=1" width="640" height="350"></iframe>
 </details>
 
 ---
