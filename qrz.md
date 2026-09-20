@@ -3,22 +3,20 @@ layout: null
 ---
 Hello! I'm new to amateur radio and got my license in May 2025. Excited to learn and connect with others along the way!
 
-I log the callsign as it was given during the QSO(I include the /P, /M etc.).
-
 Please, if you work my station when portable, log it with /P.
 
 Thanks for stopping by. Hope to catch you on the air! 73 de 3Z6MA
 
 ---
-My HF setup at home about ~100 Watts:
+My HF setup at home about **~100 Watts**:
 
- - Radio: Yaesu FT-857
- - Antenna: DIY &lambda;/4 ground plane, single band, 20M
+ - Radio: **Yaesu FT-857**
+ - Antenna: **DIY &lambda;/4 ground plane, 20m band**
 
 ---
 <details>
     <summary>Click to open <b>SOTA</b> stats</summary>
-    <iframe frameborder="0" id="SOTA" name="SOTA Activations" scrolling="yes" src="https://neon1.net/sota/myact/?c=3Z6MA&amp;l=10&amp;w=1&amp;p=1&amp;t=1" width="640" height="350"></iframe>
+    <iframe frameborder="0" id="SOTA" name="SOTA Activations" scrolling="yes" src="https://neon1.net/sota/myact/?c=3Z6MA&amp;l=20&amp;w=1&amp;p=1&amp;t=1" width="640" height="350"></iframe>
 </details>
 
 ---
