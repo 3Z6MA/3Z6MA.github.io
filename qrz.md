@@ -50,6 +50,12 @@ My HF setup at home about **~100 Watts**:
 </details>
 
 ---
+<details>
+    <summary>Click to open 3Z6MA's this year QSOs map</summary>
+    <iframe frameborder="0" id="qsomap" name="QSO map" scrolling="yes" src="https://share.worldradioleague.com/qsomap/5d9b26d5-f8dd-44a7-add1-54bcfa1390d8"></iframe>
+</details>
+
+---
 ### **Other stuff**
 
 <a href="https://photos.app.goo.gl/RxWDcFuBDnc9GoxU6" target="_blank">HF0CEBULA solar sonde SSTV</a>
