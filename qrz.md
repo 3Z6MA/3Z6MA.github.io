@@ -22,7 +22,7 @@ My HF setup at home about **~100 Watts**:
 ---
 <details>
     <summary>Click to open <b>POTA</b> stats</summary>
-    <iframe frameborder="0" id="SOTA" name="SOTA Activations" scrolling="yes" src="https://pota-stats.wd4dan.net/?3Z6MA" width="720" height="1400"></iframe>
+    <iframe frameborder="0" id="POTA" name="POTA Activations" scrolling="yes" src="https://pota-stats.wd4dan.net/?3Z6MA" width="720" height="1230"></iframe>
 </details>
 
 ---
