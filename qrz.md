@@ -52,7 +52,7 @@ My HF setup at home about **~100 Watts**:
 ---
 <details>
     <summary>Click to open 3Z6MA's this year QSOs map</summary>
-    <iframe frameborder="0" id="qsomap" name="QSO map" scrolling="yes" src="https://share.worldradioleague.com/qsomap/5d9b26d5-f8dd-44a7-add1-54bcfa1390d8" style="width: 100%; height: 100%"></iframe>
+    <iframe frameborder="0" id="qsomap" name="QSO map" scrolling="yes" src="https://share.worldradioleague.com/qsomap/5d9b26d5-f8dd-44a7-add1-54bcfa1390d8" style="width: 100%; height: 970px"></iframe>
 </details>
 
 ---
