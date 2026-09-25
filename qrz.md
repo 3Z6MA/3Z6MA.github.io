@@ -57,6 +57,8 @@ My HF setup at home about **~100 Watts**:
 
 <a href="https://photos.app.goo.gl/RxWDcFuBDnc9GoxU6" target="_blank">HF0CEBULA solar sonde SSTV</a>
 
+<a href="https://photos.app.goo.gl/UXmz17BgBZKuhi6F9" target="_blank">Random SSTV on HF</a>
+
 ---
 My amateur radio related 3D projects:
 
