@@ -27,11 +27,13 @@ My HF setup at home about **~100 Watts**:
 
 ---
 <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/3Z6MA/" style="width: 100%; max-width: 1200px"></iframe>
+
 ---
 <details>
     <summary>Click to open <b>3Z6MA/P</b> logbook's latest contacts</summary>
     <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/3Z6MA_P" style="width: 100%; max-width: 1200px"></iframe>
 </details>
+
 ---
 <details>
     <summary>Click to open <b>DL/3Z6MA</b> (also <b>/P</b>) logbook's latest contacts</summary>
@@ -43,16 +45,11 @@ My HF setup at home about **~100 Watts**:
     <summary>Click to open <b>HB9/3Z6MA</b> (also <b>/P</b>) logbook's latest contacts</summary>
     <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/HB9_3Z6MA" style="width: 100%; max-width: 1200px"></iframe>
 </details>
+
 ---
 <details>
     <summary>Click to open <b>PA/3Z6MA</b> (also <b>/P</b>) logbook's latest contacts</summary>
     <iframe id="lb_summary" align="top" frameborder="0" height="550" scrolling="yes" src="https://logbook.qrz.com/lbstat/PA_3Z6MA" style="width: 100%; max-width: 1200px"></iframe>
-</details>
-
----
-<details>
-    <summary>Click to open 3Z6MA's this year QSOs map</summary>
-    <iframe frameborder="0" id="qsomap" name="QSO map" scrolling="yes" src="https://share.worldradioleague.com/qsomap/5d9b26d5-f8dd-44a7-add1-54bcfa1390d8" style="width: 100%; height: 970px"></iframe>
 </details>
 
 ---
